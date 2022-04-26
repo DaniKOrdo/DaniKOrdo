@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning (college) **Java**
 
-- ⚡ I’m self-taught learning **JavaScript, React...**
+- ⚡ I’m self-taught learning **Python, JavaScript, React...**
 
 - 📫 How to reach me **danikordonezgarcia@gmail.com**
 
