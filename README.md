@@ -5,7 +5,7 @@
 
 - ⚡ I’m self-taught learning **Python, JavaScript, React...**
 
-- 📫 How to reach me **danikordonezgarcia@gmail.com**
+- 📫 How to reach me **hola@danik.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
