@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm DaniK</h1>
-<h3 align="center">A frontend developer student from Spain</h3>
+<h3 align="center">A Frontend Developer from Spain</h3>
 
-- 🌱 I’m currently learning (college) **Java**
+- 🌱 I’m currently working with **JavaScript, Cypress...**
 
 - ⚡ I’m self-taught learning **Python, JavaScript, React...**
 
 - 📫 How to reach me **hola@danik.dev**
+
+- 🌐 check out my portfolio! **danik.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
