@@ -5,9 +5,7 @@
 
 - ⚡ I’m self-taught learning **Python, JavaScript, React...**
 
-- 📫 How to reach me **hola@danik.dev**
-
-- 🌐 check out my portfolio! **danik.dev**
+- 🌐 Check out my portfolio! <a href="https://danik.dev/" target="blank">danik.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
