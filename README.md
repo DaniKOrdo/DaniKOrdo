@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **JavaScript, Cypress...**
 
-- ⚡ I’m self-taught learning **Python, JavaScript, React...**
+- ⚡ I’m self-taught learning **Astro, JavaScript, React...**
 
 - 🌐 Check out my portfolio! <a href="https://danik.dev/" target="blank">danik.dev</a>
 
