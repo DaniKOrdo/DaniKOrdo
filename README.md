@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DaniK</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently working with **JavaScript, Cypress...**
+- 🌱 I’m currently working with **JavaScript, Sencha, Cypress, Playwright...**
 
-- ⚡ I’m self-taught learning **Astro, JavaScript, React...**
+- ⚡ I’m self-taught learning **Astro, Tailwind, React...**
 
 - 🌐 Check out my portfolio! <a href="https://danik.dev/" target="blank">danik.dev</a>
 
