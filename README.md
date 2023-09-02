@@ -30,4 +30,5 @@
 ![](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danikordo&" alt="danikordo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danikordo&theme=shadow-green" alt="danikordo" /></p>
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
