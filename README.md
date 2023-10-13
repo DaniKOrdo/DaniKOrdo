@@ -5,7 +5,7 @@
 
 - ⚡ I’m self-taught learning **Astro, React, Next...**
 
-- 🌐 Check out my portfolio! <a href="https://danik.dev/" target="blank">danik.dev</a>
+- 🌐 Check out my portfolio! <a href="https://danik.dev/" target="_blank">danik.dev</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
