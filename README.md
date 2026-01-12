@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DaniK</h1>
-<h3 align="center">Frontend Developer</h3>
+<h2 align="center">Frontend Developer</h2>
 
 - 🌱 I’m currently working with **JavaScript, Sencha, Playwright...**
 
@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 ![](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/shadcn%20ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
